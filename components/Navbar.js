@@ -14,7 +14,7 @@ const Navbar = () => {
             <Link href={"/"}>
                 <div className="logo font-bold text-lg flex justify-center items-center ">
                     <img src="/tea.svg" width={27} alt="" />
-                    <span>GetMeACofee!</span>
+                    <span>GetMeACoffee!</span>
                 </div>
             </Link>
             {/* <ul className='flex justify-between gap-4' >

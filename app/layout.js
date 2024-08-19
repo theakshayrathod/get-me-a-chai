@@ -10,7 +10,7 @@ import SessionWrapper from "@/components/sessionWrapper";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Get Me A Cofee- Fund Your Projects ",
+  title: "Get Me A Coffee- Fund Your Projects ",
   description: "This website is crowd funding platform for creators and followers",
 };
 
